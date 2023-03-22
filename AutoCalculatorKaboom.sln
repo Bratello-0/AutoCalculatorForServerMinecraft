@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoCalculatorKaboom", "AutoCalculatorKaboom\AutoCalculatorKaboom.csproj", "{67453180-4CD5-403A-A810-51703B07F2BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67453180-4CD5-403A-A810-51703B07F2BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67453180-4CD5-403A-A810-51703B07F2BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67453180-4CD5-403A-A810-51703B07F2BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67453180-4CD5-403A-A810-51703B07F2BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABF10FAE-3B28-4041-AA43-57F4F88B27F5}
+	EndGlobalSection
+EndGlobal
